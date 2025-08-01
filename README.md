@@ -28,8 +28,8 @@ Flutter & Dart storage backends.
 
 ```yaml
 dependencies:
-  streambox_core: ^1.0.0
-  streambox_adapters: ^1.0.0
+  streambox_core: ^latest_version
+  streambox_adapters: ^latest_version
 ```
 
 ---

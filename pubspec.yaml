@@ -1,7 +1,7 @@
 name: streambox_adapters
 description: >
   Storage adapters for streambox_core: memory, SharedPrefs, secure storage.
-version: 1.2.0
+version: 1.1.0
 homepage: https://github.com/kalaganov/streambox_adapters
 issue_tracker: https://github.com/kalaganov/streambox_core/issues
 topics:
@@ -24,4 +24,5 @@ dependencies:
   streambox_core: ^1.1.0
 
 dev_dependencies:
+  test: ^1.26.2 # https://pub.dev/packages/test
   very_good_analysis: ^9.0.0 # https://pub.dev/packages/very_good_analysis
