@@ -1,3 +1,6 @@
+## 1.4.0
+- bump streambox_core to ^1.4.0
+
 ## 1.2.0
 - bump streambox_core to ^1.2.0
 
