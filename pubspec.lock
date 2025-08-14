@@ -492,10 +492,10 @@ packages:
     dependency: "direct main"
     description:
       name: streambox_core
-      sha256: "2d33470c36f0025d17aa0729a46ac8c46a1bb293f0cf6fb710cad75e612232ba"
+      sha256: "35fb4e56836eec24e4f426d28d52f14adec0d76c4e6d248404e50483555401f4"
       url: "https://pub.dev"
     source: hosted
-    version: "1.4.0"
+    version: "1.4.1"
   string_scanner:
     dependency: transitive
     description:
